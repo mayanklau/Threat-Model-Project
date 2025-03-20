@@ -1,52 +1,17 @@
-# Threat-Model-Project
-MAC testing threat model
+AI-Powered Threat Modeling Project 🚀🔐
 
-⸻
+🔹 I Built This to Test My Development Skills Again After Many Years!
 
-🚀 Threat Modeling Tool for Model Context Protocol Testing
+After a long break from hands-on development, I challenged myself to build a Threat Modeling Tool powered by Generative AI (OpenAI’s GPT-4o). This project was a great way to refresh my coding skills while integrating cutting-edge AI into cybersecurity threat analysis.
 
-This tool performs automated threat modeling using Microsoft’s STRIDE methodology. It helps you test and validate your system’s security context, including entities, trust levels, data flows, and related threats.
+🛠 What This Tool Does
 
-✅ How to use:
-	1.	Clone the repository:
+✅ Automates Threat Analysis – Identifies security risks in system architectures
+✅ Leverages AI for Mitigation Strategies – Uses OpenAI to suggest security improvements
+✅ Enhances Security Workflows – Helps teams model and analyze threats efficiently
 
-git clone git@github.com:mayanklau/Threat-Model-Project.git
-cd Threat-Model-Project
+⚡ Why I Built This
 
+I wanted to push myself technically, revisit hands-on development, and experiment with AI’s role in modern cybersecurity. This project serves as both a learning experience and a useful tool for security teams.
 
-	2.	Run the Threat Modeling Tool:
-
-./threat_model_tool.py
-
-or
-
-python3 threat_model_tool.py
-
-
-	3.	Review the output:
-	•	System Context: Verify entities, trust boundaries, and data flows.
-	•	STRIDE Threat Analysis: Assess identified threats.
-	4.	Customize the model:
-	•	Edit the YAML in threat_model_tool.py to reflect your actual system.
-	5.	Run again after changes:
-
-./threat_model_tool.py
-
-
-
-⸻
-
-⚡️ Key Benefits:
-	•	Quick identification of potential threats (Spoofing, Tampering, etc.)
-	•	Easy-to-use and customizable
-	•	Helps maintain an accurate security context
-
-⸻
-
-📌 Contributing:
-
-Feel free to fork, modify, and contribute to improving this tool.
-
-⸻
-
-Happy Threat Modeling! 🎯
+Would love to hear your feedback! 🚀 Let me know what you think and how this can be improved further. #CyberSecurity #AI #ThreatModeling #Development #OpenSource
