@@ -2,7 +2,7 @@ AI-Powered Threat Modeling Project 🚀🔐
 
 🔹 I Built This to Test My Development Skills Again After Many Years!
 
-After a long break from hands-on development, I challenged myself to build a Threat Modeling Tool powered by Generative AI (OpenAI’s GPT-4o). This project was a great way to refresh my coding skills while integrating cutting-edge AI into cybersecurity threat analysis.
+After a long break from hands-on development, I challenged myself to build a Threat Modeling Tool powered by Generative AI (OpenAI’s GPT). This project was a great way to refresh my coding skills while integrating cutting-edge AI into cybersecurity threat analysis.
 
 🛠 What This Tool Does
 
