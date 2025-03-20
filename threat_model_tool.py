@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 import yaml
 
+import os
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+
 SYSTEM_MODEL_YAML = """
 entities:
   - name: "Client"
