@@ -1,6 +1,5 @@
 # Threat-Model-Project
 MAC testing threat model
-You can copy-paste this clear and concise description directly into your GitHub repository’s README to help users easily understand and use your tool:
 
 ⸻
 
